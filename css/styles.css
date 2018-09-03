@@ -58,3 +58,9 @@ em {
   filter: FlipH;
   -ms-filter: "FlipH";
 }
+
+/********* find easy : insert align="right" in <p>-tag;
+.card-developer__photo-title_right a {
+  align: right;
+}
+*************/
